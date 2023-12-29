@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="344.5639097744361 330.27819548872174 111.73684210526318 91.21804511278197" width="53.87" height="43.61"><defs><path d="M453.3 331.28L453.3 359.85L388.64 418.5L388.64 388.42L453.3 331.28Z" id="aFZf6T5ED"></path><linearGradient id="gradientb2ThqnP5Op" gradientUnits="userSpaceOnUse" x1="420.97" y1="331.28" x2="420.97" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient><path d="M410.23 331.28L410.23 359.85L345.56 418.5L345.56 388.42L410.23 331.28Z" id="a9fehgwfM"></path><linearGradient id="gradientk1wNV9Ostb" gradientUnits="userSpaceOnUse" x1="377.89" y1="331.28" x2="377.89" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient></defs><g><g><use xlink:href="#aFZf6T5ED" opacity="1" fill="url(#gradientb2ThqnP5Op)"></use></g><g><use xlink:href="#a9fehgwfM" opacity="1" fill="url(#gradientk1wNV9Ostb)"></use></g></g></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<title>terminal-icon</title>
+	<defs>
+		<image  width="50" height="50" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAADOtka5AAAAAXNSR0IB2cksfwAAAAZQTFRF////YQrytYsJ0wAAAAJ0Uk5TAP9bkSK1AAACN0lEQVR4nO2cMY6DMBQFjSgoOYKPwtHM0TiKj7DlFlH+YjtoG6MYv+zSzNTxCIXhx1ISOwcAAAAAAAAAAAAA8L+M36JgfooCb6smWGzTBMGiJjD7ktYPZtptGM0ekmAy0+7jbGaSwO+CVREsu2BTBGEXREWwr5dCGJJACWFMAiWEKQmUEFIGUgg+C9Z+wZIFW78gZEFUBUIIeb0SQhEIIRSBEEIRCCG8BKsq2FRBVAX9IZgaQlBDWNQQvBrCIVh7BbMawqSGMKohDHIIpoYQ1BAWQiCEBCEQQoYQCCFDCISQIQRCyBACIWQIgRAyhEAIGUIghAwhEEKGEAghQwiEkCEEQsgQwm8I3YIjBPl77H5BUFNcVIFXBfPtVyC/B+HuDo4SY69AfhaOp3HrFRzzYO0VHBOpd73+k46gjnX1g0UeSGRABo4MEmRABo4MHBkkyIAMHBk4MkiQARk4MnBkkCADMnBk4MggQQZk4MjAkUGCDMjAkYEjg8T9GQQxg4/9dT+qgk0VrKqge/2nDpGQj7GQD9IQjvIIYgb6cSZezOAl6F9fJpJyqMx0loE1EctUrmQwvlt63P/hJIPp3dLCo1xqPHlvmgTBqhn4NsGzlLR2C6y8snIT2gVzPYOlWTDVM2gXjPVp0C4Y6tOgXeDq0+CCIFSnwQVB/cC1C4L6kW8XBGN1pl8Q1EGAAAGCjwn87YLG/cH57qp9g3FC4xbnfJPdvMk6pU2wnQsAAAAAAAAAAAAAAP6AH0HIsByRUIMRAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

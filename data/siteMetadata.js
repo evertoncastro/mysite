@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Everton Castro',
+  title: 'evertoncastro',
   author: 'Everton Castro',
-  headerTitle: 'Everton Castro',
+  headerTitle: 'evertoncastro.dev',
   description: 'Follow my last updates about software development',
   language: 'en-us',
   theme: 'system', // system, dark or light
